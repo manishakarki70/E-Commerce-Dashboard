@@ -17,11 +17,23 @@ The dashboard has been thoughtfully organized into three distinct sections, each
   ◆ **Executives:** The Commerce Overview section presents a concise yet comprehensive snapshot of the company’s overall performance. It provides key metrics such as total sales, profit 
                      margins, and progress toward essential targets. This high-level view enables executives to quickly evaluate the business's trajectory, allowing them to make informed decisions without wading through intricate details.
 
+  ![FeaturedImg](https://github.com/user-attachments/assets/546dfd0c-3234-4aec-a53a-0033ecd49056)
+
+
+
   ◆ **Regional Managers:** The Market Insights section is specifically designed for regional managers, enabling them to closely monitor the performance of various markets. This section   
                         highlights top-selling products and sales volume by region, making it easy to identify which areas are most profitable. By analyzing this data, regional managers can 
                         adapt their strategies to capitalize on local market trends, ensuring a more targeted approach to sales and marketing.
 
+  ![FeaturedImg2](https://github.com/user-attachments/assets/04226f73-829a-4344-a1d4-71d6455625af)
+
+
+
   ◆ **Product Managers:** The Customer & Product section provides an in-depth analysis of customer behavior, product profitability, and the effects of discount strategies on profit margins. This granular level of detail is vital for product managers, as it helps them identify which customer segments and products are most successful. Additionally, understanding how discounting impacts profitability allows them to refine pricing strategies and optimize product offerings for maximum financial performance.
+
+  ![FeaturedImg3](https://github.com/user-attachments/assets/f066d9e1-02c5-4015-83a4-c7cbfc99d3b7)
+
+
 
 **Key Insights:**
 
